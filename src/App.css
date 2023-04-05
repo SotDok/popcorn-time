@@ -3,17 +3,3 @@
 }
 
 
-.App form {
-  border: 1px solid #333;
-  padding: 1rem;
-}
-
-.App form label {
-  display: block;
-  padding: 0.5rem;
-}
-
-.App form input {
-  display: block;
-  margin: 0 auto;
-}
